@@ -1,5 +1,5 @@
-﻿public enum ToolEffect
-{
-    none,
-    watering
+﻿public enum ToolEffect 
+{ 
+    none, 
+    watering 
 }
